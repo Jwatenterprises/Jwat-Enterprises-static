@@ -1,1 +1,10 @@
-# Jwat-Enterprises-static
+#jwat-enterprises-static/
+├── index.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── logo.png
+└── .nojekyll
